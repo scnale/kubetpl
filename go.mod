@@ -15,12 +15,12 @@ require (
 	github.com/onsi/ginkgo v1.12.2 // indirect
 	github.com/posener/complete v0.0.0-20180119090745-cdc49b71388c
 	github.com/satori/go.uuid v1.2.0 // indirect
-	github.com/shyiko/kubetpl v0.0.0-20200521002102-cf9e2dfd36a7
 	github.com/sirupsen/logrus v1.0.3
 	github.com/smartystreets/goconvey v1.6.4 // indirect
 	github.com/spf13/cobra v0.0.0-20170731170427-b26b538f6930
 	github.com/spf13/pflag v1.0.0
 	github.com/stretchr/testify v1.5.1 // indirect
+	golang.org/x/sys v0.14.0 // indirect
 	gopkg.in/airbrake/gobrake.v2 v2.0.9 // indirect
 	gopkg.in/check.v1 v1.0.0-20200227125254-8fa46927fb4f // indirect
 	gopkg.in/gemnasium/logrus-airbrake-hook.v2 v2.1.2 // indirect
